@@ -7,9 +7,10 @@
       relatedLinks: [
         {url: "https://www.arsys.es/blog/desarrollo-pagina-web", label: "Fases del procesor de desarrollo web"},
         {url: "materiales/clase01_terminologiaIT.pdf", label: "Conceptos y terminología IT"},
+        {url: "materiales/clase01_instalacionXAMPP.pdf", label: "Instalación Servidor Local (XAMPP)"},
       ]
     },
-    
+    /*
     {
       nro: 2,
       titulo: "Proyecto Web - Metodología de trabajo",
@@ -79,7 +80,7 @@
         {url:"https://developer.mozilla.org/es/docs/Web/CSS/CSS_media_queries/Using_media_queries", label:"Media queries "},
         
       ]
-    },*/
+    },
     {
       nro: 7,
       titulo: "ResponsiveDesign - Bootstrap",
@@ -102,7 +103,7 @@
         {url:"https://training.github.com/downloads/es_ES/github-git-cheat-sheet.pdf", label:"Cheat Sheet de Github"},
 
       ]
-    },/*
+    },
     {
       nro: 9,
       titulo: "plugins JS",
@@ -115,7 +116,7 @@
         {url:"https://swup.js.org/getting-started/installation/#esm",label:"Swup"},        
         {url:"https://www.emailjs.com/docs/sdk/installation/",label:"EmailJS"}        
       ]
-    },*/
+    },
     {
       nro: 9,
       titulo: "Entrega Momento 3",
@@ -134,7 +135,7 @@
     //     {url: "https://developer.mozilla.org/es/docs/Web/JavaScript", label: "MDN JavaScript"},
     //     {url: "https://www.javascript.com/", label: "JavaScript Oficial"},
     //   ]
-    // },
+    // },*/
   ];
 
   const container = document.getElementById('classes-container');
