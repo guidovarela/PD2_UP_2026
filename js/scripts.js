@@ -10,20 +10,21 @@
         {url: "materiales/clase01_instalacionXAMPP.pdf", label: "Instalación Servidor Local (XAMPP)"},
       ]
     },
-    /*
+    
     {
       nro: 2,
-      titulo: "Proyecto Web - Metodología de trabajo",
-      pptLink: "materiales/Clase02_proyecto.pdf",
+      titulo: "Bases de Datos MySQL",
+      pptLink: "materiales/01_Intro-BBDD.pdf",
       relatedLinks: [
-        {url: "https://www.uifrommars.com/arquitectura-de-la-informacion/", label: "Que es la Arq. de la Información?"},
-        {url: "https://www.uifrommars.com/que-es-wireframe/", label: "Que es un Wireframe?"},
-        {url:"https://moqups.com",label:"Moqups"},
-        {url:"https://whimsical.com",label:"Whimsical"},
+        {url: "materiales/02_SQL.pdf", label: "MySQL"},
+        {url: "https://www.mysql.com/", label: "MySQL"},
+        // {url: "https://www.uifrommars.com/que-es-wireframe/", label: "Que es un Wireframe?"},
+        // {url:"https://moqups.com",label:"Moqups"},
+        // {url:"https://whimsical.com",label:"Whimsical"},
         // {url:"",label:""}
       ]
     },
-    
+    /*
     {
       nro: 3,
       titulo: "Definición de Usuarios - Intro a HTML",
