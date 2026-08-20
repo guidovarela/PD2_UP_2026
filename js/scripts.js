@@ -31,7 +31,8 @@
       pptLink: "materiales/03_MySQL.pdf",
       relatedLinks:[
         {url:"materiales/usuarios.sql", label:"💿 bbdd prática"},      
-        {url:"materiales/03_cuestionario_consultasMYSQL.pdf", label:"Ejercicios de consultas MySQL"},      ]
+        {url:"materiales/03_cuestionario_consultasMYSQL.pdf", label:"Ejercicios de consultas MySQL"},      
+        {url:"https://docs.google.com/spreadsheets/d/17bCPEsp0wwXHMH-swX-IAE2_LdWVnDHy0ECQVYQGPC0/edit?usp=sharing", label:"Ejercicios - Respuestas"},      ]
     },
     /*
     {
