@@ -30,7 +30,8 @@
       titulo: "Consultas MySQL",
       pptLink: "materiales/03_MySQL.pdf",
       relatedLinks:[
-        {url:"materiales/usuarios.sql", label:"💿 bbdd prática"},      ]
+        {url:"materiales/usuarios.sql", label:"💿 bbdd prática"},      
+        {url:"materiales/03_cuestionario_consultasMYSQL.pdf", label:"Ejercicios de consultas MySQL"},      ]
     },
     /*
     {
