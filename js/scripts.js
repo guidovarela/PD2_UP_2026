@@ -24,18 +24,15 @@
         // {url:"",label:""}
       ]
     },
-    /*
+    
     {
       nro: 3,
-      titulo: "Definición de Usuarios - Intro a HTML",
-      pptLink: "materiales/clase03_userPersona.pdf",
+      titulo: "Consultas MySQL",
+      pptLink: "materiales/03_MySQL.pdf",
       relatedLinks:[
-        {url:"https://youtu.be/CdvzQj96-aw?si=trhRrZl5N4nGlVql", label:"📺 User Personas"},
-        {url:"https://developer.mozilla.org/es/docs/Web/HTML", label:"Documentacion HTML"},
-        {url: "https://codepen.io/Alejandrogrd/pen/gMZbWp", label:"CodePen - entorno de desarrollo  social para front-end"}
-      ]
+        {url:"materiales/usuarios.sql", label:"💿 bbdd prática"},      ]
     },
-    
+    /*
     {
       nro: 4,
       titulo: "Prototipado Funcional - Intro CSS",
