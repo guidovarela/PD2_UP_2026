@@ -34,18 +34,16 @@
         {url:"materiales/03_cuestionario_consultasMYSQL.pdf", label:"Ejercicios de consultas MySQL"},      
         {url:"https://docs.google.com/spreadsheets/d/17bCPEsp0wwXHMH-swX-IAE2_LdWVnDHy0ECQVYQGPC0/edit?usp=sharing", label:"Ejercicios - Respuestas"},      ]
     },
-    /*
+    
     {
       nro: 4,
-      titulo: "Prototipado Funcional - Intro CSS",
-      pptLink: "materiales/clase04_CSS.pdf",
+      titulo: "Intro PHP",
+      pptLink: "materiales/05_IntroduccionPHP.pdf",
       relatedLinks:[
-        {url:"https://lenguajecss.com/css/introduccion/que-es-css/", label:"CSS, qué es?"},
-        {url:"https://youtube.com/@uxcristopher", label:"Aprendé Figma (de cero a Avanzado)"},
-        {url:"https://github.com/guidovarela/contenidos1_up_archivos/blob/main/ejercicios/01_maaquetaNoticias/gacetilla.jpg", label:"Tarea: Maquetar estructura y estilos, desde el wireframe", highlight: true},
+        {url:"https://www.php.net/", label:"Documentacion PHP"},
       ]
     },
-    
+    /*
     {
       nro: 5,
       titulo: "Maquetacion y grilla - Flex",
