@@ -43,21 +43,16 @@
         {url:"https://www.php.net/", label:"Documentacion PHP"},
       ]
     },
-    /*
+    
     {
       nro: 5,
-      titulo: "Maquetacion y grilla - Flex",
-      pptLink: "materiales/clase5_DisplayCaja.pdf",
+      titulo: "PHP 01 - Condicionales y Ciclos",
+      pptLink: "materiales/06_PHP_forwhile_date_GET.pdf",
       relatedLinks:[
-        {url:"https://css-tricks.com/snippets/css/a-guide-to-flexbox/", label:"Flexbox"},
-        {url: "https://lenguajecss.com/css/grid/que-es-grid/", label:"Grid System CSS"},
-        {url: "https://flexboxfroggy.com/#es", label:"Flexbox Froggy (🎮)"},
-        {url: "https://codingfantasy.com/games/flexboxadventure/play", label:"Flexbox Adventura (🎮)"},
-        {url: "https://cssgridgarden.com/#es", label:"Grid Garden (🎮)"},
-        
+        {url: "https://www.php.net/manual/en/control-structures.while.php", label:"For - While"},        
       ]
     },
-    {
+    /*{
       nro: 6,
       titulo: "Formularios - Correcciones Momento 2",
       pptLink: "materiales/clase06_Formularios.pdf",
