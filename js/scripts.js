@@ -60,6 +60,8 @@
       pptLink: "materiales/07_PHP(mail).pdf",
       relatedLinks:[
         {url:"materiales/07_MySQLconexion+PHP.pdf", label:"Conexion a MySQL desde PHP"},
+        {url:"https://www.php.net/manual/es/function.mail.php", label:"Funcion mail()"},
+        {url:"https://github.com/PHPMailer/phpmailer", label:"PHP Mailer"},
       ]
     },
     /*
