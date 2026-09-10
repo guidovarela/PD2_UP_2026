@@ -46,21 +46,20 @@
     
     {
       nro: 5,
-      titulo: "PHP 01 - Condicionales y Ciclos",
+      titulo: "PHP01 - Condicionales y Ciclos",
       pptLink: "materiales/06_PHP_forwhile_date_GET.pdf",
       relatedLinks:[
         {url: "https://www.php.net/manual/en/control-structures.while.php", label:"For - While"},        
+        {url: "https://www.w3schools.com/php/php_superglobals_get.asp", label:"Método GET"},        
+        {url: "https://www.w3schools.com/php/php_superglobals_post.asp", label:"Método POST"},        
       ]
     },
-    /*{
+    {
       nro: 6,
-      titulo: "Formularios - Correcciones Momento 2",
-      pptLink: "materiales/clase06_Formularios.pdf",
+      titulo: "PHP02 - Formularios y MYSQL",
+      pptLink: "materiales/07_PHP(mail).pdf",
       relatedLinks:[
-        {url:"materiales/TPintegrador_momento2.pdf", label:"Guia de TP Integrador - Momento 2 "},
-        {url:"https://www.palermo.edu/dyc/ciclo_asignatura/index.html", label:"Ciclo de Asignatura "},
-        {url:"https://developer.mozilla.org/es/docs/Web/HTML/Reference/Elements/form", label:"Formularios HTML "},
-        
+        {url:"materiales/07_MySQLconexion+PHP.pdf", label:"Conexion a MySQL desde PHP"},
       ]
     },
     /*
