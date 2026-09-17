@@ -64,17 +64,18 @@
         {url:"https://github.com/PHPMailer/phpmailer", label:"PHP Mailer"},
       ]
     },
-    /*
+    
     {
       nro: 5,
-      titulo: "Responsive Design - Fonts",
-      pptLink: "materiales/Clase04_2025.pdf",
+      titulo: "PHP03 - Consultas MySQL desde PHP",
+      pptLink: "materiales/materiales/08_MySQL-fetch.pdf",
       relatedLinks:[
-        {url:"https://fonts.google.com/", label:"Google Fonts "},
-        {url:"https://developer.mozilla.org/es/docs/Web/CSS/CSS_media_queries/Using_media_queries", label:"Media queries "},
+        // {url:"https://fonts.google.com/", label:"Google Fonts "},
+        // {url:"https://developer.mozilla.org/es/docs/Web/CSS/CSS_media_queries/Using_media_queries", label:"Media queries "},
         
       ]
     },
+    /*
     {
       nro: 7,
       titulo: "ResponsiveDesign - Bootstrap",
