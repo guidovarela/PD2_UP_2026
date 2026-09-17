@@ -68,7 +68,7 @@
     {
       nro: 5,
       titulo: "PHP03 - Consultas MySQL desde PHP",
-      pptLink: "materiales/materiales/08_MySQL-fetch.pdf",
+      pptLink: "materiales/08_MySQL-fetch.pdf",
       relatedLinks:[
         // {url:"https://fonts.google.com/", label:"Google Fonts "},
         // {url:"https://developer.mozilla.org/es/docs/Web/CSS/CSS_media_queries/Using_media_queries", label:"Media queries "},
