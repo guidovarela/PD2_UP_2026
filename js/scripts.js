@@ -75,30 +75,27 @@
         
       ]
     },
-    /*
+    
     {
       nro: 7,
-      titulo: "ResponsiveDesign - Bootstrap",
-      pptLink: "materiales/clase07_ResponsiveDesign.pdf",
+      titulo: "Bootstrap",
+      pptLink: "https://getbootstrap.com/",
       relatedLinks:[
-        {url:"https://getbootstrap.com/", label:"Bootstrap-Framework CSS"},
         {url:"materiales/bootstrap.ppsx", label:"Presentacion Bootstrap"},
         {url:"https://youtu.be/XAUBr0eegfQ?si=qf7YzCtRAtDtq0-R", label:"Bootstrap, Porque sí y porque no"},
-        {url:"materiales/ejercicio_bootstrap.jpg", label:"Ejercicio: Maquetar con Bootstrap"},
         {url:"https://developer.mozilla.org/es/docs/Web/CSS/CSS_media_queries/Using_media_queries", label:"Media queries "},        
       ]
     },
     {
       nro: 8,
-      titulo: "Componentes Bootstrap - Github <i class='fa-brands fa-github-alt'></i>",
-      pptLink: "materiales/clase08_Github.pdf",
+      titulo: "Sesiones PHP - Gestion de Usuarios",
+      pptLink: "materiales/09_Sesiones_PHP.pdf",
       relatedLinks:[
-        {url:"https://getbootstrap.com/docs/5.3/components/", label:"Componentes Bootstrap"},
-        {url:"clases/clase08/ejercicioBootstrap.jpg", label:"Ejercicio Maquetacion"},
-        {url:"https://training.github.com/downloads/es_ES/github-git-cheat-sheet.pdf", label:"Cheat Sheet de Github"},
+        {url:"https://www.php.net/manual/es/reserved.variables.session.php", label:"Variables de Sesion"},
+        {url:"https://www.w3schools.com/php/php_sessions.asp", label:"W3Schools - $session"},
 
       ]
-    },
+    },/*
     {
       nro: 9,
       titulo: "plugins JS",
